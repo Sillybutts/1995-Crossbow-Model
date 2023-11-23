@@ -42,7 +42,7 @@ Also, please credit me in any designs you use this model for. Thanks :)
 
 <img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Render.PNG" width="500">
 
-## Helpers
+## Thanks
 
 This model is roughly based on scans of a 1995 Crossbow by Lucian on Nerfhaven, and some modeling work done by CaptainSlug on Nerfhaven. The scans were used as a rough guideline in earlier versions of my model, and were used to fill in some limited areas where I couldn't really get a clean model (mainly the front grip area). 
 
