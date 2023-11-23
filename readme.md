@@ -1,5 +1,5 @@
 # 1995 Crossbow Model
-An open source 3d model of the 1995 Kenner Crossbow Nerf blaster. Manually recreated from scratch with measurements from several real blasters in hand.
+An open source 3d model of the 1995 Kenner Crossbow Nerf blaster, recreated from scratch. 
 
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
