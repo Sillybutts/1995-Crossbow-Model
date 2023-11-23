@@ -1,0 +1,60 @@
+# 1995 Crossbow Model
+desc
+
+<details>
+<summary>Changelog (click this text, it's a dropdown!)</summary>
+
+- Changelog: 11-23-2023: First release.
+  
+</details>
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%201.png" width="500">
+
+
+## Description
+
+3D Model Video Overview: WIP
+
+
+## Helpers
+
+This model is roughly based on scans of a 1995 Crossbow by Lucian on Nerfhaven, and some modeling work done by CaptainSlug on Nerfhaven. The scans were used as a rough guideline in earlier versions of my model, and were used to fill in some limited areas where I couldn't really get a clean model (mainly the front grip area).
+
+## Misc.
+
+**If you build any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
+
+**If you are having issues with any of my designs, please let me know.**
+
+**If you wish to print and sell this item, please contact me for licensing. I can be reached via email at "iamsillybutts@gmail.com".**
+
+**你好！ 我擁有這個設計。 想生產請聯繫我. 你好！ 我拥有这个设计。 如果你想生产，请联系我.**
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+**Please use a bright/blaze orange muzzle and barrel cap on this blaster.**
+
+
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
+https://www.patreon.com/sillybutts Monthly donations
+
+<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> 
+https://www.buymeacoffee.com/sillybutts One-time donations
+
+<a href="https://brandondiaz.me/product/foam-fndry-sillybutts"><img alt="FoamFNDRY Button" style="border-width:0" src="GHimages/FoamFndry%20BrandonDiaz%20Icon.png" height="50" /></a> 
+https://brandondiaz.me/product/foam-fndry-sillybutts AWESOME shirts made in collab with Brandon Diaz! 
+
+<a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> 
+https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
+
+
+
+## Images
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%201.png" width="500">
+
