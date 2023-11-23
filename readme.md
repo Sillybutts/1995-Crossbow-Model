@@ -9,8 +9,6 @@ An open source 3d model of the 1995 Kenner Crossbow Nerf blaster. Manually recre
 </details>
 
 <img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Comparison.png" width="500">
-<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Model.png" width="500">
-<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Render.PNG" width="500">
 
 ## Description
 
@@ -39,6 +37,10 @@ This model is extremely accurate to the original blaster, with a few caveats:
 
 This model is open to everyone, and I hope that you guys have some fun with it! Make sure to share any cool things you do with the model!
 Also, please credit me in any designs you use this model for. Thanks :)
+
+<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Model.png" width="500">
+
+<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Render.PNG" width="500">
 
 ## Helpers
 
@@ -82,5 +84,9 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 ## Images
 
-<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%201.png" width="500">
+<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Comparison.png" width="500">
+
+<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Model.png" width="500">
+
+<img src="GHimages/new%201995%20crossbow%20model%20sillybutts%20nov2023%20Render.PNG" width="500">
 
