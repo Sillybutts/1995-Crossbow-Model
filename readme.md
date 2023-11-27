@@ -1,5 +1,5 @@
 # 1995 Crossbow Model
-An open source 3d model of the 1995 Kenner Crossbow Nerf blaster, recreated from scratch. 
+An open source 3d model of the 1995 Kenner Crossbow Nerf blaster, recreated from scratch. Built upon prior work by Captain Slug and Lucian on NerfHaven. 
 
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
@@ -16,7 +16,7 @@ An open source 3d model of the 1995 Kenner Crossbow Nerf blaster, recreated from
 
 3D Model Video Overview: https://www.youtube.com/watch?v=gofHQ6IpOhw
 
-This is my hand-crafted 3d model of a 1995 Kenner Crossbow blaster. The Crossbow is (or at least used to be when I was first getting into the hobby) an extremely sought after blaster. Unfortunately, many Crossbows that exist today are damaged, modded, missing parts, or are just old and fragile (they are almost 30 years old now!). 
+This is my hand-crafted 3d model of a 1995 Kenner Crossbow blaster, built upon a bit of prior work by Captain Slug and Lucian on NerfHaven. The Crossbow is (or at least used to be when I was first getting into the hobby) an extremely sought after blaster. Unfortunately, many Crossbows that exist today are damaged, modded, missing parts, or are just old and fragile (they are almost 30 years old now!). 
 
 This model is meant to be modified by users to make 3d printable 1995 Crossbow homemades. 
 Here's some possible uses for this model:
