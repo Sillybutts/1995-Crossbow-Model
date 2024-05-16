@@ -12,6 +12,10 @@ An open source 3d model of the 1995 Kenner Crossbow Nerf blaster, recreated from
 
 <img src="GHimages/1995%20Crossbow%20Crappy%20Turntable%20Gif.gif" width="500">
 
+<a href="https://www.printables.com/model/876180-1995-nerf-kenner-crossbow-3d-model"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/876180-1995-nerf-kenner-crossbow-3d-model
+
 ## Description
 
 3D Model Video Overview: https://www.youtube.com/watch?v=gofHQ6IpOhw
